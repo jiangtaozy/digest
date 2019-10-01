@@ -17,7 +17,7 @@
 - Objectives and Key Results, or OKRs, are a simple goal-setting system.
 - 那么该如何正确地设定目标呢？
 - So how do you set these goals the right way?
-- 首先你必须回答一个问题：“为什么？“
+- 首先你必须回答一个问题：“为什么？”
 - First, you must answer the question, "Why?"
 - 重要么？是的。具体吗？是的。以行动为导向么？是的。是否激励人心？是的。
 - Significant? Check. Concrete? Yes. Action-oriented? Yes. Inspirational? Yes.
