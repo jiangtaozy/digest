@@ -1,0 +1,39 @@
+# 成功的秘诀在于设定正确的目标
+- 正确的理由，正确的目标
+- The right goals for the right reasons.
+- 约翰，你所知道的东西并不重要。执行才是最重要的。
+- John, it almost doesn't matter what you know. Execution is what matters the most.
+- 目标和关键成果法
+- Objectives and Key Results
+- 其核心全在于出色的执行
+- It's all about excellent execution.
+- 这种目标管理的两个关键词是“目标”和“关键成果”，它们分别对应着两个目的。
+- The two key phrases of the management by objective systems are the objectives and the key results, and they match the two purposes.
+- 目标是方向，
+- The objective is the direction.
+- 关键成果需要得到评估，但是最终结果显而易见，更本不需要出现“我做了这个吗，或者根本没做”那样的争论，是或否，就是这么简单。
+- The key results have to be measured, but at the end you can look and without any argument say, "Did I do that, or did I not do that" Yes. No. Simple.
+- 目标和关键成果法，也称为 OKRs，是一个简单的目标制定方法。
+- Objectives and Key Results, or OKRs, are a simple goal-setting system.
+- 那么该如何正确地设定目标呢？
+- So how do you set these goals the right way?
+- 首先你必须回答一个问题：“为什么？“
+- First, you must answer the question, "Why?"
+- 重要么？是的。具体吗？是的。以行动为导向么？是的。是否激励人心？是的。
+- Significant? Check. Concrete? Yes. Action-oriented? Yes. Inspirational? Yes.
+- 好的结果是明确且有时间限制的。
+- Good results are specific and time-bound.
+- 它们很激进但也很现实。
+- They're aggressive but realistic.
+- 它们可衡量也可评估。
+- They're measurable and they're verifiable.
+- 从那之后的每个季度，每一个谷歌人写下的目标和关键成果，都会得到他们的评价，然后公布给每个人看。这些内容并不被用于奖金或升职，就是摆在那里。用于实现更高的目标。那就是获取共同责任感，以真正推动目标。
+- But every quarter since then, every Googler has written down her objectives and her key results. They've graded them, and they've published them for everyone to see. And these are not used for bonuses or for promotions. They're set aside. They're used for a higher purpose, and that's to get collective commitment, to truly stretch goals.
+- 他认为是用户数量，因为用户会决定Chrome浏览器是好还是坏。
+- He said numbers of users, because users are going to decide if Chrome is a great browser or not.
+- 因此他定下了这个长达三年的目标：打造最好的浏览器。之后的每一年，他都会专注于相同的关键成果，即用户数量，但是要求不断提高。在最初一年，他的目标是2000万用户，但并没有达成。用户数量还不到1000万。第二年，他把目标提高到5000万。结果用户数量达到3700万。不管怎样，总算有些进步。在第三年，他再次将目标提高到1亿。他启动了一个激进的营销活动，采用更广泛的推广手段，改善的技术，用户数量终于爆发了！他获得了1.11亿用户。
+- So he had this one three-year-long objective: build the best browser. And then every year he stuck to the same key results, numbers of users, but he upped the ante. In the first year, his goal was 20 million users, and he missed it. He got less than 10. Second year, he raised the bar to 50 million. He got to 37 million users. Somewhat better. In the third year, he upped the ante once more to a hundred million. He launched an aggressive marketing campaign, broader distribution, improved the technology, and kaboom! He got 111 million users.
+- 它表现出一个人仔细选择了正确的目标，并年复一年始终坚持下来。
+- It shows someone carefully choosing the right objective, and then sticking to it year after year after year.
+- 我把OKRs看作是一个透明容器，它由野心勃勃的”做什么“和”怎么做“构成。真正的关键在于放进容器中的”为什么“。那是我们工作的原因。
+- Now, I think of OKRs as transparent vessels, that are made from the whats and hows of our ambitions. What really matters is the why that we pour into those vessels. That's why we do our work.
