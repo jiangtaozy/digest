@@ -11,7 +11,7 @@
 - The two key phrases of the management by objective systems are the objectives and the key results, and they match the two purposes.
 - 目标是方向，
 - The objective is the direction.
-- 关键成果需要得到评估，但是最终结果显而易见，更本不需要出现“我做了这个吗，或者根本没做”那样的争论，是或否，就是这么简单。
+- 关键成果需要得到评估，但是最终结果显而易见，根本不需要出现“我做了这个吗，或者根本没做”那样的争论，是或否，就是这么简单。
 - The key results have to be measured, but at the end you can look and without any argument say, "Did I do that, or did I not do that" Yes. No. Simple.
 - 目标和关键成果法，也称为 OKRs，是一个简单的目标制定方法。
 - Objectives and Key Results, or OKRs, are a simple goal-setting system.
@@ -35,5 +35,5 @@
 - So he had this one three-year-long objective: build the best browser. And then every year he stuck to the same key results, numbers of users, but he upped the ante. In the first year, his goal was 20 million users, and he missed it. He got less than 10. Second year, he raised the bar to 50 million. He got to 37 million users. Somewhat better. In the third year, he upped the ante once more to a hundred million. He launched an aggressive marketing campaign, broader distribution, improved the technology, and kaboom! He got 111 million users.
 - 它表现出一个人仔细选择了正确的目标，并年复一年始终坚持下来。
 - It shows someone carefully choosing the right objective, and then sticking to it year after year after year.
-- 我把OKRs看作是一个透明容器，它由野心勃勃的”做什么“和”怎么做“构成。真正的关键在于放进容器中的”为什么“。那是我们工作的原因。
+- 我把OKRs看作是一个透明容器，它由野心勃勃的“做什么”和“怎么做”构成。真正的关键在于放进容器中的“为什么”。那是我们工作的原因。
 - Now, I think of OKRs as transparent vessels, that are made from the whats and hows of our ambitions. What really matters is the why that we pour into those vessels. That's why we do our work.
